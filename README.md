@@ -12,7 +12,7 @@
 - 💻 Focusing on **Full-Stack Web Development** and Web Applications.
 - ⚙️ Interested in Database Systems, SQL, and Software Architecture.
 - 🚀 Continuously building projects and improving my development skills.
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **eshaheen021@gmail.com**
 
 ---
 
